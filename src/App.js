@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Resume } from './Portfolio'
+import { Resume } from './Portfolio';
 
 
 function App () {
